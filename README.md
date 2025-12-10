@@ -84,11 +84,14 @@ endmodule
  RegisterNumber: 25017266
  
 **Logic symbol & Truthtable**
+<img width="1071" height="555" alt="Screenshot 2025-12-10 081444" src="https://github.com/user-attachments/assets/57c88464-26b0-4bd3-8140-9022e355411b" />
 
 **RTL realization Output:** 
+<img width="1640" height="986" alt="1ex Screenshot 2025-11-28 190422" src="https://github.com/user-attachments/assets/c034dc61-94b7-4d35-bc37-cdff401e02df" />
 
 **RTL**
+<img width="1906" height="1035" alt="1ex Screenshot 2025-11-28 191730" src="https://github.com/user-attachments/assets/6368d095-7a84-4f98-86be-d29b6477e729" />
 
 **Result:**
-
+Thus verifying the truth table of logic gates using Quartus II is succesfull
 
